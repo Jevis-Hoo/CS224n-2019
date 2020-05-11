@@ -1,2 +1,2 @@
-# CS224n-2020
-CS224n-2020 NLP Arrangement
+# CS224n-2019
+CS224n-2019 NLP Arrangement
